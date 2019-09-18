@@ -7,8 +7,6 @@
 <li>Search Functionality</li>
 
 </ul>
-Video Demo: https://youtu.be/5_bDIUYLWzg <br><br>
-<a href ="https://play.google.com/store/apps/details?id=com.bimsina.movies"><img src ="https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png"></a>
 Screenshots:<br>
 <table style={border:"none"}><tr>
 <td><img src="https://user-images.githubusercontent.com/29589003/58170605-93aba280-7cb3-11e9-8733-dff46d1e86c7.png" alt="Screenshot 2"/></td>
@@ -27,11 +25,3 @@ Screenshots:<br>
 </tr>
 
 </table>
-
-## To run this app
-<ol>
-<li>Obtain api key from <a href ="https://www.themoviedb.org/">TMDB</a>.</li>
-<li>Replace YOUR_API_KEY in api_constants.dart with your api key.</li>
-<li>Run the app with <b>flutter run --release</b></li>
-
-</ol>
